@@ -1062,7 +1062,7 @@ a {
 }
 .cid-t5NN59OcgM .mbr-text,
 .cid-t5NN59OcgM .mbr-section-btn {
-  color: #232323;
+  color: #ffffff;
   text-align: center;
 }
 @media (max-width: 991px) {
@@ -1154,13 +1154,15 @@ a {
     text-align: center;
   }
 }
-.cid-t60fc2LBsD {
-  background-color: #000000;
+.cid-t63aPgnWiP {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/background1.jpg");
 }
-.cid-t60fc2LBsD .mbr-fallback-image.disabled {
+.cid-t63aPgnWiP .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-t60fc2LBsD .mbr-fallback-image {
+.cid-t63aPgnWiP .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1168,6 +1170,23 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+@media (min-width: 992px) {
+  .cid-t63aPgnWiP .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-t63aPgnWiP .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-t63aPgnWiP .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-t63aPgnWiP .mbr-text {
+  color: #ffffff;
 }
 .cid-t5NOm0udKa .mbr-section-title {
   text-align: center;
