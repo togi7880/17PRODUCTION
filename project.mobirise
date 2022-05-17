@@ -60,7 +60,7 @@
     "siteUrl": "http://17production.mn",
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
